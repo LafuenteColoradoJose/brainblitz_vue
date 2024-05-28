@@ -1,0 +1,54 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*
+color principal: #f6c358    rgb(246,195,88)
+color secundario: #fcd462   rgb(252,212,98)
+
+complementario: #588bf6 rgb(88,139,246)
+
+Analogo: #f67458 rgb(246,116,88)
+Analogo: #daf658 rgb(218,246,88)
+
+
+
+    #010000  #130d01  #261a02  #382703  #4b3404  #5e4105  #704e06  #835b07  #956808  #a87509  #bb820a  #cd8f0b  #e09b0c
+
+PALETTE
+
+#CCEF06  rgb(204, 239, 6)
+#f6c358  rgb(246,195,88)
+#FF2D2D  rgb(255, 45, 45)
+#35AFAE  rgb(53, 175, 174)  #479d9d
+#353531  rgb(53, 53, 49)
+#EAF2E3  rgb(234, 242, 227)
+
+
+https://coolors.co/palettes/popular/#f6c358
+
+*/
+
+/* roboto-condensed-latin-wght-normal */
+/* @font-face {
+    font-family: 'Roboto Condensed Variable';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 100 900;
+    src: url(https://cdn.jsdelivr.net/fontsource/fonts/roboto-condensed:vf@latest/latin-wght-normal.woff2) format('woff2-variations');
+    unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+  }
+
+  body {
+    font-family: 'Roboto Condensed Variable', sans-serif;
+  } */
+
+
+  body {
+    font-family: 'Metropolis', sans-serif;
+  }
